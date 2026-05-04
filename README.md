@@ -1,0 +1,2 @@
+# myFIrstApiProject
+pneumoniadetector api project
